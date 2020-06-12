@@ -536,6 +536,19 @@ a.button.extra-small.news-btn span {
     font-weight: bold;
     position: relative;
 }
+.testimonial-text-2 > h1 {
+    padding-bottom: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+}
+.testimonial-text-2 > h2 {
+    padding-top: 10px;
+    padding-left: 60px;
+    font-size: 22px;
+    font-weight: bold;
+    position: relative;
+}
 .testimonial-img {
     overflow: hidden;
     position: relative;
@@ -564,6 +577,14 @@ a.button.extra-small.news-btn span {
 .img-title.navy-bg > p {
     color: #fff;
     margin-bottom: 0;
+}
+.testimonial-peragraph-2 > p {
+    padding: 50px 30px 0;
+    position: relative;
+}
+.testimonial-peragraph-2 {
+    width: 100%;
+    float: left;
 }
 .testimonial-peragraph > p {
     padding: 127px 30px 0;
@@ -614,6 +635,9 @@ a.button.extra-small.news-btn span {
 }
 .testimonial-text {
     padding-top: 147px;
+}
+.testimonial-text-2 {
+    padding-top: 0px;
 }
 .testimonial-text > h2::after {
     background-color: #c1c1c1;
