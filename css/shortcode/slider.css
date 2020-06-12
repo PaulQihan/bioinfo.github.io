@@ -48,7 +48,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 .slider-all-2 {
     position: relative
 }
-.slider-all::before {
+.slider-all-2::before {
     height: 100%;
     left: 0;
     opacity: 0.7;
