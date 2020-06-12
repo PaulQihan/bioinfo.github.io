@@ -8,6 +8,9 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 .slider-area .slider-all > img {
     width: 100%;
 }
+.slider-area .slider-all-2 > img {
+    width: 100%;
+}
 .slider-all {
     position: relative;
 }
@@ -33,6 +36,19 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 }
 .slider-all::before {
     background-color: #000;
+    height: 100%;
+    left: 0;
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+    content: "";
+}
+.slider-all-2 {
+    position: relative
+}
+.slider-all::before {
     height: 100%;
     left: 0;
     opacity: 0.7;
