@@ -395,7 +395,7 @@ h3.blog-title {
 }
 .visual-inner {
   width: 555px;
-  height: 222px;
+  height: 242px;
   border: 1px solid #c1c1c1;
   padding: 25px 7px 24px 197px;
 }
@@ -581,6 +581,7 @@ a.button.extra-small.news-btn span {
 .testimonial-peragraph-2 > p {
     padding: 50px 30px 0;
     position: relative;
+    font-size: 20px;
 }
 .testimonial-peragraph-2 {
     width: 100%;
